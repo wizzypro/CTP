@@ -1,2 +1,3 @@
 # CTP
-Created with CodeSandbox
+
+simple practice challenge to implement component tree
